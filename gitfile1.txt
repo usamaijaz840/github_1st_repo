@@ -1,1 +1,2 @@
-i this is my first git file 
+i this is my first git file
+this is the 2nd chane  
